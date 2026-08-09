@@ -1,106 +1,104 @@
 <div align="center">
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&text=wangink12&fontAlignY=40&fontSize=64&color=0:FF4D4D,100:1a1a1a&fontColor=ffffff&desc=跑得动%20·%20扛得住%20·%20偶尔报错&descAlignY=70&descSize=18&fontFamily=Cormorant,Garamond,serif" width="100%" alt="Banner"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&random=false&width=520&lines=Hello%2C+I'm+wangink12.;%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%86%99%E7%82%B9%E5%AD%97%EF%BC%8C%E5%86%8D%E4%BF%AE%E4%B8%80%E6%AC%A1+bug.;On+the+web+since+2018." alt="Typing SVG" />
+<br/>
+
+<a href="https://notes.xin">
+  <img src="https://img.shields.io/badge/notes.xin-000000?style=flat-square&logo=hackernoon&logoColor=white" height="22"/>
+</a>
+&nbsp;
+<a href="mailto:wang@notes.xin">
+  <img src="https://img.shields.io/badge/wang%40notes.xin-EA4335?style=flat-square&logo=gmail&logoColor=white" height="22"/>
+</a>
+&nbsp;
+<a href="https://github.com/wangink12">
+  <img src="https://img.shields.io/github/followers/wangink12?label=follow&style=flat-square&logo=github&color=181717" height="22"/>
+</a>
+&nbsp;
+<img src="https://komarev.com/ghpvc/?username=wangink12&label=visitors&color=FF4D4D&style=flat-square" height="22"/>
 
 <br/><br/>
-
-<a href="https://notes.xin"><img src="https://img.shields.io/badge/📝_notes.xin-000?style=for-the-badge" /></a>
-<a href="mailto:wang@notes.xin"><img src="https://img.shields.io/badge/✉️_wang%40notes.xin-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-<a href="https://github.com/wangink12"><img src="https://img.shields.io/badge/🐙_github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-
-<br/><br/>
-
-```
-     ✦ main { 
-  ✦   while(alive) {
-  ✦       eat();
-  ✦       code();
-  ✦       sleep();
-  ✦   }
-  ✦ }
-```
 
 </div>
 
 ---
 
-## 🛰️ 现在在干嘛
+## � 嘿
 
-```yaml
-状态:        在线 · 但可能在发呆
-坐标:        安徽 · 合肥 → 云端
-最近升级:    写了一个小玩意儿，又删了
-关注中:      Nuxt · 字体排版 · 干净的页面
+2018 年开始写代码，到现在也没停下来。
+
+写一点跑得起来的东西，记一些站得住的笔记。
+喜欢干净的页面，讨厌多余的元素。
+键盘敲得动，热水喝得下，bug 修得完。
+
+---
+
+## 🔭 最近在做什么
+
+```diff
++ notes.xin   →  在重构，新版快了
++ 一个新工具   →  只告诉用得到的人
+! hexo 主题    →  慢慢改
+- 几个老项目   →  已归档
 ```
 
 ---
 
-## 🧰 装备栏
+## 🧰 工具
 
 <p>
-  <img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+  <a href="#"><img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,nodejs,vite,tailwind,git,vscode,github" /></a>
 </p>
 
 ---
 
-## 📊 战报
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=wangink12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D4D&icon_color=FF4D4D&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangink12&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF4D4D&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF4D4D" alt="Streak" height="170" />
-</p>
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangink12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D4D&text_color=FFFFFF" alt="Top Languages" />
-</p>
-
----
-
-## 🐍 看我画条蛇
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wangink12/wangink12/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wangink12/wangink12/output/github-contribution-grid-snake.svg" />
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wangink12/wangink12/output/github-contribution-grid-snake.svg" />
-</picture>
-
-<sub>↑ 这条蛇每天自己爬一次，灵感来自 <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
-
----
-
-## 🏆 拿过的牌
-
-<img src="https://github-profile-trophy.vercel.app/?username=wangink12&theme=tokyonight&no-frame=true&column=4&margin-w=4&margin-h=4" alt="Trophies" />
-
----
-
-## 🎵 此刻在听
-
-[![Spotify](https://novatorem-eta.vercel.app/api/spotify)](https://open.spotify.com/user/你的ID)
-
-<sub>↑ 接上 Spotify 后自动同步最近单曲</sub>
-
----
-
-## 📈 访客
-
-<img src="https://komarev.com/ghpvc/?username=wangink12&label=来过&color=FF4D4D&style=for-the-badge" alt="Profile Views" />
-
----
+## 🪴 作品
 
 <div align="center">
 
-### 📡 联系方式
-
-[**notes.xin**](https://notes.xin) · [**wang@notes.xin**](mailto:wang@notes.xin) · [**github.com/wangink12**](https://github.com/wangink12)
-
-<sub>本页托管在 GitHub Pages · 不收广告 · 不偷数据 · 坏了直接说</sub>
+| | | |
+|:---:|:---:|:---:|
+| [**notes.xin**](https://notes.xin) | 🏠 主页 | 笔记 / 博客 / 长文 |
+| [**file.sunjianjian.com**](https://file.sunjianjian.com) | 📦 文件柜 | 公开的杂项文件 |
+| [**github.com/wangink12**](https://github.com/wangink12) | 🐙 仓库 | 一切跑得动的代码 |
 
 </div>
+
+---
+
+## 📊 数字
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=wangink12&custom_title=去年活跃&radius=8&theme=minimal&hide_border=true&area=true&area_color=FF4D4D&line=FF4D4D&point=FF4D4D" width="100%" alt="Activity Graph"/>
+
+<sub>↑ 去年一年的提交热力</sub>
+
+</div>
+
+---
+
+## 📫 找到我
+
+<div align="center">
+
+<a href="https://notes.xin">
+  <img src="https://img.shields.io/badge/📝_blog-000?style=for-the-badge&logoColor=white" />
+</a>
+<a href="mailto:wang@notes.xin">
+  <img src="https://img.shields.io/badge/✉️_email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/wangink12">
+  <img src="https://img.shields.io/badge/🐙_github-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>本页托管在 GitHub Pages · 不收集数据 · 不投放广告</sub>
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a1a,100:FF4D4D&height=120&section=footer" width="100%" alt="Footer"/>
