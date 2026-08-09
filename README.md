@@ -24,46 +24,12 @@
 
 <br/>
 
-## · 工具
-
-<p align="center">
-  <a><img src="https://skillicons.dev/icons?i=vue,nuxt,ts,js,nodejs,vite,tailwind,git,vscode,github&theme=light" /></a>
-</p>
-
-<br/>
-
 ## · 最近
 
 ```diff
 + notes.xin        在重构
-+ 一个新工具       只告诉用得到的人
-! hexo 主题        慢慢改
 - 几个老项目       已归档
 ```
-
-<br/>
-
-## · 作品
-
-<table align="center" width="100%">
-<tr>
-<td align="center" width="33%">
-<b>主页</b><br/>
-<a href="https://notes.xin">notes.xin</a><br/>
-<sub>笔记 · 博客 · 长文</sub>
-</td>
-<td align="center" width="33%">
-<b>文件柜</b><br/>
-<a href="https://file.sunjianjian.com">file.sunjianjian.com</a><br/>
-<sub>公开的杂项</sub>
-</td>
-<td align="center" width="33%">
-<b>仓库</b><br/>
-<a href="https://github.com/wangink12">github.com/wangink12</a><br/>
-<sub>一切跑得动的代码</sub>
-</td>
-</tr>
-</table>
 
 <br/>
 
