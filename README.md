@@ -1,49 +1,54 @@
 <div align="center">
 
-<pre align="center" style="background: transparent; font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-size: 12px; line-height: 1.2; color: #0969da; padding: 0;">
-██╗    ██╗ █████╗ ███╗   ██╗  ██████╗  ██╗███╗   ██╗██╗  ██╗ ██╗██████╗
-██║    ██║██╔══██╗████╗  ██║██╔════╝ ██╔═╝████╗  ██║██║ ██╔╝███║╚════██╗
-██║ █╗ ██║███████║██╔██╗ ██║██║  ███╗██║  ██╔██╗ ██║█████╔╝ ╚██║ █████╔╝
-██║███╗██║██╔══██║██║╚██╗██║██║   ██║██║  ██║╚██╗██║██╔═██╗  ██║ ╚═══██╗
-╚███╔███╔╝██║  ██║██║ ╚████║╚██████╔╝╚██╗██║ ╚████║██║  ██╗ ██║██████╔╝
- ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═╝╚═════╝
+<pre align="center" style="background: transparent; font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-size: 14px; line-height: 1.2; color: #1f1f1f; padding: 0;">
+╭───────────────────────────────╮
+│  MODEL    wangink12  v2026   │
+│  STATUS   ● operational       │
+│  BUILT    2018 — present      │
+│  HOST     github pages        │
+╰───────────────────────────────╯
 </pre>
 
-<br />
+# `> wangink12`
 
-<pre align="left" style="background: transparent; font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-size: 16px; line-height: 1.55; color: #1f1f1f; padding: 0;">
-╭────────────────────────────────────────────────╮
-│  ⚔  wangink12  <span style="color:#888;">Lv.99</span>                    │
-│     「游走于代码与诗意」                          │
-├────────────────────────────────────────────────┤
-│  <span style="color:#e25555;">❤</span>  HP      <span style="color:#e25555;">██████████</span>  <span style="color:#888;">100%</span>            │
-│  <span style="color:#f5a623;">✨</span> EXP     <span style="color:#f5a623;">████████░░</span>  <span style="color:#888;">72%</span>             │
-│  <span style="color:#5b8cff;">💻</span> Code    <span style="color:#5b8cff;">██████████</span>  <span style="color:#888;">99%</span>              │
-│  <span style="color:#7a5230;">☕</span> Coffee  <span style="color:#7a5230;">█████████░</span>  <span style="color:#888;">90%</span>              │
-╰────────────────────────────────────────────────╯
-</pre>
+**跑得动，扛得住，偶尔报错。**
 
-<br />
-
-<pre align="left" style="background: transparent; font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-size: 16px; line-height: 1.55; color: #1f1f1f; padding: 0;">
-<span style="color:#22a722;">$</span> whoami
-<span style="color:#888;">  →</span> wangink12 · building tiny worlds on the web
-<span style="color:#22a722;">$</span> cat contact.txt
-<span style="color:#888;">  →</span> wang@notes.xin
-<span style="color:#22a722;">$</span> ls projects/
-<span style="color:#888;">  →</span> blog/   notes/   tools/   files/
-<span style="color:#22a722;">$</span> ./quest.sh
-<span style="color:#888;">  →</span> make the world a bit better <span style="color:#22a722;">[running...]</span>
-</pre>
-
-<br />
-
-<img src="https://github-readme-stats.vercel.app/api?username=wangink12&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangink12&layout=compact&hide_border=true&theme=default" alt="Top Languages" />
-
-<br />
-
-<sub>📬 <a href="https://notes.xin">blog</a> · 📦 <a href="https://github.com/wangink12">repos</a> · ✉ <a href="mailto:wang@notes.xin">email</a></sub>
+<sub>一份非官方说明手册 · 内容会随时更新</sub>
 
 </div>
+
+---
+
+## SPEC SHEET
+
+| 项 | 值 |
+| --- | --- |
+| 出厂坐标 | 安徽 · 合肥 |
+| 当前位置 | [notes.xin](https://notes.xin) |
+| 通信地址 | [wang@notes.xin](mailto:wang@notes.xin) |
+| 运行时长 | 2018 — 至今 |
+| 最近一次更新 | 又写了一点小东西 |
+
+## 在跑的进程
+
+- `notes.xin` — 笔记 / 博客 / 偶尔的胡言乱语
+- `github.com/wangink12` — 仓库的集合地，能跑就开源
+
+## 装了什么
+
+`键盘` `热水` `写得动的脑子` `不太听话的 Wi-Fi`
+
+## 已知问题
+
+- 周末会自动重启一次
+- 看见漂亮排版会停下来
+- 凌晨两点之后反应最灵敏
+- 对干净的页面有本能好感
+
+## 联系
+
+- 主页 → [notes.xin](https://notes.xin)
+- 邮件 → [wang@notes.xin](mailto:wang@notes.xin)
+- 仓库 → [github.com/wangink12](https://github.com/wangink12)
+
+<sub>本产品不收集数据 · 不投放广告 · 坏了直接说</sub>
