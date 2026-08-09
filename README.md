@@ -1,54 +1,118 @@
 <div align="center">
 
-<pre align="center" style="background: transparent; font-family: 'JetBrains Mono', 'Fira Code', Consolas, monospace; font-size: 14px; line-height: 1.2; color: #1f1f1f; padding: 0;">
-╭───────────────────────────────╮
-│  MODEL    wangink12  v2026   │
-│  STATUS   ● operational       │
-│  BUILT    2018 — present      │
-│  HOST     github pages        │
-╰───────────────────────────────╯
-</pre>
+<br/>
 
-# `> wangink12`
+```
+██╗    ██╗ █████╗ ███╗   ██╗  ██████╗  ██╗███╗   ██╗██╗  ██╗ ██╗██████╗
+██║    ██║██╔══██╗████╗  ██║██╔════╝ ██╔═╝████╗  ██║██║ ██╔╝███║╚════██╗
+██║ █╗ ██║███████║██╔██╗ ██║██║  ███╗██║  ██╔██╗ ██║█████╔╝ ╚██║ █████╔╝
+██║███╗██║██╔══██║██║╚██╗██║██║   ██║██║  ██║╚██╗██║██╔═██╗  ██║ ╚═══██╗
+╚███╔███╔╝██║  ██║██║ ╚████║╚██████╔╝╚██╗██║ ╚████║██║  ██╗ ██║██████╔╝
+ ╚══╝╚══╝ ╚═╝  ╚═╝╚═╝  ╚═══╝ ╚═════╝  ╚═╝╚═╝  ╚═══╝╚═╝  ╚═╝ ╚═╝╚═════╝
+```
 
-**跑得动，扛得住，偶尔报错。**
+<br/>
 
-<sub>一份非官方说明手册 · 内容会随时更新</sub>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=FF4D4D&center=true&vCenter=true&random=false&width=520&lines=Hello%2C+I'm+wangink12.;%E5%86%99%E4%BB%A3%E7%A0%81%EF%BC%8C%E5%86%99%E7%82%B9%E5%AD%97%EF%BC%8C%E5%86%8D%E4%BF%AE%E4%B8%80%E6%AC%A1+bug.;On+the+web+since+2018." alt="Typing SVG" />
+
+<br/><br/>
+
+<a href="https://notes.xin"><img src="https://img.shields.io/badge/📝_notes.xin-000?style=for-the-badge" /></a>
+<a href="mailto:wang@notes.xin"><img src="https://img.shields.io/badge/✉️_wang%40notes.xin-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://github.com/wangink12"><img src="https://img.shields.io/badge/🐙_github-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+
+<br/><br/>
+
+```
+     ✦ main { 
+  ✦   while(alive) {
+  ✦       eat();
+  ✦       code();
+  ✦       sleep();
+  ✦   }
+  ✦ }
+```
 
 </div>
 
 ---
 
-## SPEC SHEET
+## 🛰️ 现在在干嘛
 
-| 项 | 值 |
-| --- | --- |
-| 出厂坐标 | 安徽 · 合肥 |
-| 当前位置 | [notes.xin](https://notes.xin) |
-| 通信地址 | [wang@notes.xin](mailto:wang@notes.xin) |
-| 运行时长 | 2018 — 至今 |
-| 最近一次更新 | 又写了一点小东西 |
+```yaml
+状态:        在线 · 但可能在发呆
+坐标:        安徽 · 合肥 → 云端
+最近升级:    写了一个小玩意儿，又删了
+关注中:      Nuxt · 字体排版 · 干净的页面
+```
 
-## 在跑的进程
+---
 
-- `notes.xin` — 笔记 / 博客 / 偶尔的胡言乱语
-- `github.com/wangink12` — 仓库的集合地，能跑就开源
+## 🧰 装备栏
 
-## 装了什么
+<p>
+  <img src="https://img.shields.io/badge/Vue-42B883?style=for-the-badge&logo=vuedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nuxt-00DC82?style=for-the-badge&logo=nuxtdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
+</p>
 
-`键盘` `热水` `写得动的脑子` `不太听话的 Wi-Fi`
+---
 
-## 已知问题
+## 📊 战报
 
-- 周末会自动重启一次
-- 看见漂亮排版会停下来
-- 凌晨两点之后反应最灵敏
-- 对干净的页面有本能好感
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=wangink12&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D4D&icon_color=FF4D4D&text_color=FFFFFF&count_private=true" alt="GitHub Stats" height="170" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=wangink12&theme=tokyonight&hide_border=true&background=0D1117&stroke=FF4D4D&ring=FF4D4D&fire=FF4D4D&currStreakLabel=FF4D4D" alt="Streak" height="170" />
+</p>
 
-## 联系
+<p>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wangink12&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FF4D4D&text_color=FFFFFF" alt="Top Languages" />
+</p>
 
-- 主页 → [notes.xin](https://notes.xin)
-- 邮件 → [wang@notes.xin](mailto:wang@notes.xin)
-- 仓库 → [github.com/wangink12](https://github.com/wangink12)
+---
 
-<sub>本产品不收集数据 · 不投放广告 · 坏了直接说</sub>
+## 🐍 看我画条蛇
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/wangink12/wangink12/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/wangink12/wangink12/output/github-contribution-grid-snake.svg" />
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/wangink12/wangink12/output/github-contribution-grid-snake.svg" />
+</picture>
+
+<sub>↑ 这条蛇每天自己爬一次，灵感来自 <a href="https://github.com/Platane/snk">Platane/snk</a></sub>
+
+---
+
+## 🏆 拿过的牌
+
+<img src="https://github-profile-trophy.vercel.app/?username=wangink12&theme=tokyonight&no-frame=true&column=4&margin-w=4&margin-h=4" alt="Trophies" />
+
+---
+
+## 🎵 此刻在听
+
+[![Spotify](https://novatorem-eta.vercel.app/api/spotify)](https://open.spotify.com/user/你的ID)
+
+<sub>↑ 接上 Spotify 后自动同步最近单曲</sub>
+
+---
+
+## 📈 访客
+
+<img src="https://komarev.com/ghpvc/?username=wangink12&label=来过&color=FF4D4D&style=for-the-badge" alt="Profile Views" />
+
+---
+
+<div align="center">
+
+### 📡 联系方式
+
+[**notes.xin**](https://notes.xin) · [**wang@notes.xin**](mailto:wang@notes.xin) · [**github.com/wangink12**](https://github.com/wangink12)
+
+<sub>本页托管在 GitHub Pages · 不收广告 · 不偷数据 · 坏了直接说</sub>
+
+</div>
