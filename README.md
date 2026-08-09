@@ -24,16 +24,27 @@
 
 <br/>
 
-## · 最近
+<img src="https://img.shields.io/badge/%E6%9C%80%E8%BF%91-000000?style=for-the-badge&labelColor=0a0a0a" height="32" />
 
-```diff
-+ notes.xin        在重构
-- 几个老项目       已归档
-```
+<p align="center"><sub>在跑 · 排队 · 已归档</sub></p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%E2%97%8F_%E5%9C%A8%E8%B7%91-notes.xin%20%E9%87%8D%E6%9E%84-FF4D4D?style=for-the-badge&labelColor=1a1a1a" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%E2%97%8F_%E6%8E%92%E9%98%9F-%E5%86%85%E9%83%A8%E5%B7%A5%E5%85%B7-FFA500?style=for-the-badge&labelColor=1a1a1a" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/%E2%97%8F_%E5%BD%92%E6%A1%A3-%E8%80%81%E9%A1%B9%E7%9B%AE-6b6b6b?style=for-the-badge&labelColor=1a1a1a" />
+</p>
+
+<p align="center">
+  <sub>新版快了 · 主页 + 笔记两块</sub><br/>
+  <sub>先给自己用 · 不对外开放</sub><br/>
+  <sub>已下线 · 留个纪念</sub>
+</p>
 
 <br/>
 
-## · 活跃度
+<img src="https://img.shields.io/badge/%E6%B4%BB%E8%B7%83%E5%BA%A6-000000?style=for-the-badge&labelColor=0a0a0a" height="32" />
 
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=wangink12&radius=12&theme=github-compact&hide_border=true&area=true&area_color=FF4D4D&line=FF4D4D&point=FF4D4D" width="100%" alt="Activity Graph"/>
